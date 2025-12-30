@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-This project is **Task 5: Auto Tagging Support Tickets Using LLM**.
+This project is ** Auto Tagging Support Tickets Using LLM**.
 The aim of this project is to automatically classify and tag customer support tickets into relevant categories using a **Large Language Model (LLM)**.
 
 Instead of traditional rule-based systems, this project uses **LLM-powered text understanding** to generate accurate and meaningful tags from free-text tickets.
